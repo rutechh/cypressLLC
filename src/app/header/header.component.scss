@@ -1,0 +1,13 @@
+.nav{
+  @apply flex flex-row mx-auto space-x-5 items-center lg:space-x-12 whitespace-nowrap text-[#333333] cursor-pointer font-medium text-lg;
+}
+.btn{
+  @apply text-white bg-[#2C3878] px-6 py-2 hover:font-bold;
+}
+.menu{
+  @apply mx-auto items-center  space-y-8 text-[#333333] cursor-pointer font-medium text-lg;
+}
+.btn-1{
+  @apply text-white bg-[#2C3878] px-4 py-2 hover:font-bold;
+}
+
